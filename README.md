@@ -23,15 +23,13 @@
 ## 🚀 运行方式
 ```bash
 python ma_strategy.py
-
+```
 ## 📌 项目结构
-quant-strategy/
-│
-├── ma_strategy.py              # 均线策略
-├── bollinger_bands.py         # 布林带策略
-├── cumulative_return_curve.py # 收益曲线计算
-├── performance.py             # 策略绩效分析
-├── README.md
+
+- `ma_strategy.py`：均线策略  
+- `bollinger_bands.py`：布林带策略  
+- `cumulative_return_curve.py`：收益曲线计算  
+- `performance.py`：策略绩效分析
 
 ## 👨‍💻 作者
 
